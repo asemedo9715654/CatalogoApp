@@ -32,7 +32,7 @@
                         {
                             Nome = tableName,
                             Descricao = GetTableDescription(connection, tableName),
-                            Fields = GetTableFields(connection, tableName)
+                            Campos = GetTableFields(connection, tableName)
                         };
                         tables.Add(tableInfo);
                     }

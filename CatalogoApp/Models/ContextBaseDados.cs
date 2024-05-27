@@ -4,7 +4,8 @@ namespace CatalogoApp.Models
 {
     public class ContextBaseDados : DbContext
     {
-        public DbSet<Tabela> TableInfo { get; set; }
-        public DbSet<Campo> FieldInfo { get; set; }
+        public DbSet<Catalogo> Catalogo { get; set; }
+        public DbSet<Tabela> Tabela { get; set; }
+        public DbSet<Campo> Campo { get; set; }
     }
 }

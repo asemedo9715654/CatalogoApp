@@ -13,7 +13,7 @@
             <h3>@table.Nome</h3>
             <p>@table.Descricao</p>
             <ul>
-                @foreach (var field in table.Fields)
+                @foreach (var field in table.Campos)
                 {
                     <li>
                         <strong>@field.Nome:</strong> @field.Descricao
