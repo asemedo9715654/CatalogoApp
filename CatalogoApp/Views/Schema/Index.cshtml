@@ -1,4 +1,4 @@
-﻿@model List<CatalogoApp.Models.TableInfo>
+﻿@model List<CatalogoApp.Models.Tabela>
 
 @{
     ViewBag.Title = "Database Schema";
@@ -10,13 +10,13 @@
     @foreach (var table in Model)
     {
         <li>
-            <h3>@table.TableName</h3>
-            <p>@table.TableDescription</p>
+            <h3>@table.Nome</h3>
+            <p>@table.Descricao</p>
             <ul>
                 @foreach (var field in table.Fields)
                 {
                     <li>
-                        <strong>@field.FieldName:</strong> @field.FieldDescription
+                        <strong>@field.Nome:</strong> @field.Descricao
                     </li>
                 }
             </ul>

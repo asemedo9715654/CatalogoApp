@@ -15,9 +15,9 @@
             _connectionString = connectionString;
         }
 
-        public List<TableInfo> GetDatabaseSchema()
+        public List<Tabela> GetDatabaseSchema()
         {
-            var tables = new List<TableInfo>();
+            var tables = new List<Tabela>();
 
             using (var connection = new SqlConnection(_connectionString))
             {
@@ -28,10 +28,10 @@
                     while (reader.Read())
                     {
                         var tableName = reader["TABLE_NAME"].ToString();
-                        var tableInfo = new TableInfo
+                        var tableInfo = new Tabela
                         {
-                            TableName = tableName,
-                            TableDescription = GetTableDescription(connection, tableName),
+                            Nome = tableName,
+                            Descricao = GetTableDescription(connection, tableName),
                             Fields = GetTableFields(connection, tableName)
                         };
                         tables.Add(tableInfo);
@@ -59,9 +59,9 @@
             return description ?? string.Empty;
         }
 
-        private List<FieldInfo> GetTableFields(SqlConnection connection, string tableName)
+        private List<Campo> GetTableFields(SqlConnection connection, string tableName)
         {
-            var fields = new List<FieldInfo>();
+            var fields = new List<Campo>();
 
             var fieldsCommand = new SqlCommand($@"
             SELECT 
@@ -79,10 +79,10 @@
             {
                 while (reader.Read())
                 {
-                    var fieldInfo = new FieldInfo
+                    var fieldInfo = new Campo
                     {
-                        FieldName = reader["ColumnName"].ToString(),
-                        FieldDescription = reader["ColumnDescription"]?.ToString() ?? string.Empty
+                        Nome = reader["ColumnName"].ToString(),
+                        Descricao = reader["ColumnDescription"]?.ToString() ?? string.Empty
                     };
                     fields.Add(fieldInfo);
                 }
