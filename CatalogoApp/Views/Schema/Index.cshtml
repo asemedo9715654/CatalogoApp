@@ -1,0 +1,25 @@
+﻿@model List<CatalogoApp.Models.TableInfo>
+
+@{
+    ViewBag.Title = "Database Schema";
+}
+
+<h2>Database Schema</h2>
+
+<ul>
+    @foreach (var table in Model)
+    {
+        <li>
+            <h3>@table.TableName</h3>
+            <p>@table.TableDescription</p>
+            <ul>
+                @foreach (var field in table.Fields)
+                {
+                    <li>
+                        <strong>@field.FieldName:</strong> @field.FieldDescription
+                    </li>
+                }
+            </ul>
+        </li>
+    }
+</ul>
