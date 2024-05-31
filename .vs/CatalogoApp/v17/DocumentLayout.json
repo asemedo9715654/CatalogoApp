@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\angelosemedo\\Documents\\WORKSPACE\\c#\\CatalogoApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C283D259-6C87-4EDE-B790-E9DF6348A231}|CatalogoApp\\CatalogoApp.csproj|c:\\users\\angelosemedo\\documents\\workspace\\c#\\catalogoapp\\catalogoapp\\models\\tabela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C283D259-6C87-4EDE-B790-E9DF6348A231}|CatalogoApp\\CatalogoApp.csproj|solutionrelative:catalogoapp\\models\\tabela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C283D259-6C87-4EDE-B790-E9DF6348A231}|CatalogoApp\\CatalogoApp.csproj|c:\\users\\angelosemedo\\documents\\workspace\\c#\\catalogoapp\\catalogoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C283D259-6C87-4EDE-B790-E9DF6348A231}|CatalogoApp\\CatalogoApp.csproj|solutionrelative:catalogoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C283D259-6C87-4EDE-B790-E9DF6348A231}|CatalogoApp\\CatalogoApp.csproj|c:\\users\\angelosemedo\\documents\\workspace\\c#\\catalogoapp\\catalogoapp\\models\\catalogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C283D259-6C87-4EDE-B790-E9DF6348A231}|CatalogoApp\\CatalogoApp.csproj|solutionrelative:catalogoapp\\models\\catalogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C283D259-6C87-4EDE-B790-E9DF6348A231}|CatalogoApp\\CatalogoApp.csproj|c:\\users\\angelosemedo\\documents\\workspace\\c#\\catalogoapp\\catalogoapp\\models\\campo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C283D259-6C87-4EDE-B790-E9DF6348A231}|CatalogoApp\\CatalogoApp.csproj|solutionrelative:catalogoapp\\models\\campo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C283D259-6C87-4EDE-B790-E9DF6348A231}|CatalogoApp\\CatalogoApp.csproj|c:\\users\\angelosemedo\\documents\\workspace\\c#\\catalogoapp\\catalogoapp\\catalogoapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C283D259-6C87-4EDE-B790-E9DF6348A231}|CatalogoApp\\CatalogoApp.csproj|solutionrelative:catalogoapp\\catalogoapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C283D259-6C87-4EDE-B790-E9DF6348A231}|CatalogoApp\\CatalogoApp.csproj|c:\\users\\angelosemedo\\documents\\workspace\\c#\\catalogoapp\\catalogoapp\\models\\contextbasedados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C283D259-6C87-4EDE-B790-E9DF6348A231}|CatalogoApp\\CatalogoApp.csproj|solutionrelative:catalogoapp\\models\\contextbasedados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C283D259-6C87-4EDE-B790-E9DF6348A231}|CatalogoApp\\CatalogoApp.csproj|c:\\users\\angelosemedo\\documents\\workspace\\c#\\catalogoapp\\catalogoapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C283D259-6C87-4EDE-B790-E9DF6348A231}|CatalogoApp\\CatalogoApp.csproj|solutionrelative:catalogoapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C283D259-6C87-4EDE-B790-E9DF6348A231}|CatalogoApp\\CatalogoApp.csproj|c:\\users\\angelosemedo\\documents\\workspace\\c#\\catalogoapp\\catalogoapp\\controllers\\catalogocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C283D259-6C87-4EDE-B790-E9DF6348A231}|CatalogoApp\\CatalogoApp.csproj|solutionrelative:catalogoapp\\controllers\\catalogocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C283D259-6C87-4EDE-B790-E9DF6348A231}|CatalogoApp\\CatalogoApp.csproj|c:\\users\\angelosemedo\\documents\\workspace\\c#\\catalogoapp\\catalogoapp\\models\\catalogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C283D259-6C87-4EDE-B790-E9DF6348A231}|CatalogoApp\\CatalogoApp.csproj|solutionrelative:catalogoapp\\models\\catalogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,80 +34,90 @@
       "DocumentGroups": [
         {
           "DockedWidth": 413,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Catalogo.cs",
               "DocumentMoniker": "C:\\Users\\angelosemedo\\Documents\\WORKSPACE\\c#\\CatalogoApp\\CatalogoApp\\Models\\Catalogo.cs",
               "RelativeDocumentMoniker": "CatalogoApp\\Models\\Catalogo.cs",
               "ToolTip": "C:\\Users\\angelosemedo\\Documents\\WORKSPACE\\c#\\CatalogoApp\\CatalogoApp\\Models\\Catalogo.cs",
               "RelativeToolTip": "CatalogoApp\\Models\\Catalogo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAArAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T15:44:37.168Z",
+              "WhenOpened": "2024-05-28T10:06:09.447Z",
               "EditorCaption": ""
             }
           ]
         },
         {
-          "DockedWidth": 384,
-          "SelectedChildIndex": 0,
+          "DockedWidth": 413,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Campo.cs",
-              "DocumentMoniker": "C:\\Users\\angelosemedo\\Documents\\WORKSPACE\\c#\\CatalogoApp\\CatalogoApp\\Models\\Campo.cs",
-              "RelativeDocumentMoniker": "CatalogoApp\\Models\\Campo.cs",
-              "ToolTip": "C:\\Users\\angelosemedo\\Documents\\WORKSPACE\\c#\\CatalogoApp\\CatalogoApp\\Models\\Campo.cs",
-              "RelativeToolTip": "CatalogoApp\\Models\\Campo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T15:45:51.77Z",
+              "DocumentIndex": 1,
+              "Title": "CatalogoApp",
+              "DocumentMoniker": "C:\\Users\\angelosemedo\\Documents\\WORKSPACE\\c#\\CatalogoApp\\CatalogoApp\\CatalogoApp.csproj",
+              "RelativeDocumentMoniker": "CatalogoApp\\CatalogoApp.csproj",
+              "ToolTip": "C:\\Users\\angelosemedo\\Documents\\WORKSPACE\\c#\\CatalogoApp\\CatalogoApp\\CatalogoApp.csproj",
+              "RelativeToolTip": "CatalogoApp\\CatalogoApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-31T13:05:35.722Z",
               "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 396,
-          "SelectedChildIndex": 0,
-          "Children": [
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Tabela.cs",
-              "DocumentMoniker": "C:\\Users\\angelosemedo\\Documents\\WORKSPACE\\c#\\CatalogoApp\\CatalogoApp\\Models\\Tabela.cs",
-              "RelativeDocumentMoniker": "CatalogoApp\\Models\\Tabela.cs",
-              "ToolTip": "C:\\Users\\angelosemedo\\Documents\\WORKSPACE\\c#\\CatalogoApp\\CatalogoApp\\Models\\Tabela.cs",
-              "RelativeToolTip": "CatalogoApp\\Models\\Tabela.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\angelosemedo\\Documents\\WORKSPACE\\c#\\CatalogoApp\\CatalogoApp\\Program.cs",
+              "RelativeDocumentMoniker": "CatalogoApp\\Program.cs",
+              "ToolTip": "C:\\Users\\angelosemedo\\Documents\\WORKSPACE\\c#\\CatalogoApp\\CatalogoApp\\Program.cs",
+              "RelativeToolTip": "CatalogoApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T15:46:28.448Z",
+              "WhenOpened": "2024-05-31T13:01:19.79Z",
               "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 408,
-          "SelectedChildIndex": 0,
-          "Children": [
+            },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\angelosemedo\\Documents\\WORKSPACE\\c#\\CatalogoApp\\CatalogoApp\\appsettings.json",
+              "RelativeDocumentMoniker": "CatalogoApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\angelosemedo\\Documents\\WORKSPACE\\c#\\CatalogoApp\\CatalogoApp\\appsettings.json",
+              "RelativeToolTip": "CatalogoApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-31T13:00:22.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ContextBaseDados.cs",
               "DocumentMoniker": "C:\\Users\\angelosemedo\\Documents\\WORKSPACE\\c#\\CatalogoApp\\CatalogoApp\\Models\\ContextBaseDados.cs",
               "RelativeDocumentMoniker": "CatalogoApp\\Models\\ContextBaseDados.cs",
               "ToolTip": "C:\\Users\\angelosemedo\\Documents\\WORKSPACE\\c#\\CatalogoApp\\CatalogoApp\\Models\\ContextBaseDados.cs",
               "RelativeToolTip": "CatalogoApp\\Models\\ContextBaseDados.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T15:47:39.928Z",
+              "WhenOpened": "2024-05-31T12:54:20.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CatalogoController.cs",
+              "DocumentMoniker": "C:\\Users\\angelosemedo\\Documents\\WORKSPACE\\c#\\CatalogoApp\\CatalogoApp\\Controllers\\CatalogoController.cs",
+              "RelativeDocumentMoniker": "CatalogoApp\\Controllers\\CatalogoController.cs",
+              "ToolTip": "C:\\Users\\angelosemedo\\Documents\\WORKSPACE\\c#\\CatalogoApp\\CatalogoApp\\Controllers\\CatalogoController.cs",
+              "RelativeToolTip": "CatalogoApp\\Controllers\\CatalogoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T12:51:49.812Z",
               "EditorCaption": ""
             }
           ]
